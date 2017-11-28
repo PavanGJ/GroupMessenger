@@ -1,0 +1,4 @@
+#Wed Feb 22 10:07:42 EST 2017
+base.0=/Users/pavanjoshi/Documents/Masters/DS/PA2/Part_A/GroupMessenger1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/pavanjoshi/Documents/Masters/DS/PA2/Part_A/GroupMessenger1/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
